@@ -100,6 +100,14 @@
   background: green;
   color: white;
 }
+.bg-dark{
+  background: #464646;
+  color: white;
+}
+.bg-dark:hover{
+  background: #464646;
+  color: white;
+}
 .bg-yellow{
   background: yellow;
   color: black;
